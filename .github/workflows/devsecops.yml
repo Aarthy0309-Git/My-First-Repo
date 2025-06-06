@@ -23,7 +23,7 @@ jobs:
       run: mvn clean install
       
     - name: Rename JAR for Docker
-      run: mv target/com.Aarthy0309-1.0-SNAPSHOT.jar target/app.jar
+      run: mv target/Aarthy0309-1.0-SNAPSHOT.jar target/app.jar
 
     - name: OWASP Dependency Check
       run: mvn org.owasp:dependency-check-maven:check
