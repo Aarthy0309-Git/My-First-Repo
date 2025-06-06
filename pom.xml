@@ -4,6 +4,9 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
   
   <modelVersion>4.0.0</modelVersion>
+  <groupId>com.Aarthy0309-Git.My-First-Repo</groupId>
+  <artifactId>My-First-Repo</artifactId>
+  <version>1.0-SNAPSHOT</version>
 
  
   <properties>
